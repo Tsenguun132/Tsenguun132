@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tsenguun</h1>
 <h3 align="center">An iOS Engineer who loves building beautiful and gratifying user experiences.</h3>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+iOS+Developer;Love+SwiftUI+and+UIKit;Always+learning&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer;Love+SwiftUI+and+UIKit;Always+learning&center=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
