@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on a **Chat app** using SwiftUI, Combine and Firebase
+- 🔭 I’m currently working on a **Todoit** using SwiftUI, Combine and CoreData
 
 - 🌱 I’m currently learning **SwiftUI**
 
