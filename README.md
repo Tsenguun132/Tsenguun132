@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **Todoit** using SwiftUI, Combine and CoreData
+- 🔭 I’m currently working on **Momo** using SwiftUI, Combine and CoreData
 
 - 🌱 I’m currently learning **SwiftUI**
 
