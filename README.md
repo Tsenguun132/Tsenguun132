@@ -5,9 +5,9 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **DTK** a topdown rpg game using Godot
+- 🔭 I’m currently working on **Spotify statistics** a web application that shows some data pulled from the spotify api
 
-- 🌱 I’m currently learning **SwiftUI and the Godot Engine**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Programmatic UI with UIKit**
 
