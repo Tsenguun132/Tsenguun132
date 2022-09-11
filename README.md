@@ -5,9 +5,9 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **Spotify statistics** a web application that shows some data pulled from the spotify api
+- 🔭 I’m currently working on **notion-trello clone** a minimalistic web app to align your to-do's for the day.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **TypeScript**
 
 - 💬 Ask me about **Programmatic UI with UIKit**
 
