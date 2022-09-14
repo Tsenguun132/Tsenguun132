@@ -9,7 +9,7 @@
 
 <!-- <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p> -->
 
-- 🔭 I’m currently working on **notion-trello clone** a minimalistic web app to align your to-do's for the day with theme customizations.
+- 🔭 I’m currently working on **do your tasks** a minimalistic web app to align your to-do's for the day with theme customizations.
 
 - 🌱 I’m currently learning **React** and **TypeScript**
 
