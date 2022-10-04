@@ -11,8 +11,6 @@
 
 🔭 I’m currently working on **do your tasks** a minimalistic web app to align your to-do's for the day with theme customizations.
 
-🌱 I’m currently learning **React** and **TypeScript**
-
 💬 Ask me about **Programmatic UI with UIKit**
 
 <h3>🐳 Interests:</h3>
