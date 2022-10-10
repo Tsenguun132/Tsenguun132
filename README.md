@@ -1,8 +1,8 @@
 <h2 align="left">Hi there 👋, I'm Tsenguun</h2>
 
-<alt-h5 align="left">I love building beautiful and gratifying user experiences.</alt-h5>
+<h3>Software Developer with relevant experience in mobile engineering, mainly iOS</h3>
 
-Software Developer with relevant experience in mobile engineering, mainly iOS
+<h5 align="left">I love building beautiful and gratifying user experiences.</h5>
 
 <h2>Favourite Projects</h2>
 
