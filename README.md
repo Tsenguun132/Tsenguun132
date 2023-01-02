@@ -2,7 +2,7 @@
 
 <h3>Software Developer with relevant experience in mobile engineering, mainly iOS</h3>
 
-<h5 align="left">I love building beautiful and gratifying user experiences.</h5>
+<h5 align="left">Love building beautiful and gratifying user experiences.</h5>
 
 <h2>Favourite Projects</h2>
 
