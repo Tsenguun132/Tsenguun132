@@ -6,6 +6,8 @@
 
 <h2>Favourite Projects</h2>
 
+[Pikabook](https://github.com/smokycoffee/Pikabook)
+
 [Rick and Morty Indexes](https://github.com/smokycoffee/Rick-and-Morty-Index)
 
 [Tasks and Cats](https://tasksandcats.netlify.app/)
