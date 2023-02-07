@@ -1,6 +1,6 @@
-<h2 align="left">Hi there 👋, I'm Tsenguun</h2>
+<h2 align="left">Hi there 👋</h2>
 
-<h3>Software Developer with relevant experience in mobile engineering, mainly iOS</h3>
+<h3>Software Engineer with relevant experience in mobile engineering, mainly iOS</h3>
 
 <h5 align="left">Love building beautiful and gratifying user experiences.</h5>
 
