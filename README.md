@@ -6,7 +6,7 @@
 
 <h2>Favourite Projects</h2>
 
-[Pikabook](https://github.com/smokycoffee/Pikabook)
+[Pikabook](https://github.com/smokycoffee/Pikabook): -> [link to testflight](https://testflight.apple.com/join/LNg1E9fB)
 
 [Rick and Morty Indexes](https://github.com/smokycoffee/Rick-and-Morty-Index)
 
@@ -15,6 +15,9 @@
 [Spotify Rundown](https://spotify-rundown.herokuapp.com/)
 
 [Momo Minimalistic Expense Tracker](https://github.com/smokycoffee/Momo)
+
+
+[Sharest: testflight link](https://testflight.apple.com/join/NseDRvfK): -> a react native social album application
 
 <h2></h2>
 
